@@ -16,7 +16,7 @@ def pop_with_args(array)
   deleted
 end
 
-def using_unshift(array)
+def using_shift(array)
   deleted = array.shift
   deleted
 end
