@@ -25,3 +25,8 @@ def shift_with_args(array)
   deleted = array.shift(2)
   deleted
 end
+
+def using_concat(array1, array2)
+  array1 << array2
+  array1
+end
