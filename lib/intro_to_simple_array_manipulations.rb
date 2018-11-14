@@ -10,3 +10,9 @@ def using_pop(array)
   deleted = array.pop
   deleted
 end  
+
+def pop_with_args(array)
+  deleted = []
+  deleted << array.pop
+  deleted
+end
