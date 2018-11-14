@@ -20,4 +20,3 @@ def using_unshift(array)
   deleted = array.shift
   deleted
 end
-  
