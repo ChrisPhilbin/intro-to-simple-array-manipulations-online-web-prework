@@ -25,4 +25,3 @@ def shift_with_args(array)
   deleted = array.shift(2)
   deleted
 end
-
