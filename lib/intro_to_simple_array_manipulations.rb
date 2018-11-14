@@ -12,7 +12,6 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  deleted = []
-  deleted << array.pop(2)
+  deleted = array.pop(2)
   deleted
 end
